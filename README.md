@@ -20,4 +20,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/amal2k5/leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3813-vowel-consonant-score](https://github.com/amal2k5/leetcode/tree/main/3813-vowel-consonant-score/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3813-vowel-consonant-score](https://github.com/amal2k5/leetcode/tree/main/3813-vowel-consonant-score/) | Easy |
 <!---LeetCode Topics End-->
