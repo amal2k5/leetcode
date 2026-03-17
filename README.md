@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0196-delete-duplicate-emails](https://github.com/amal2k5/leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/amal2k5/leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
+| [1683-invalid-tweets](https://github.com/amal2k5/leetcode/tree/main/1683-invalid-tweets/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
