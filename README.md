@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/amal2k5/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/amal2k5/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0771-jewels-and-stones](https://github.com/amal2k5/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/amal2k5/leetcode/tree/main/3813-vowel-consonant-score/) | Easy |
@@ -59,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/amal2k5/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/amal2k5/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/amal2k5/leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/amal2k5/leetcode/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
