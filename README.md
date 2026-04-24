@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/amal2k5/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/amal2k5/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/amal2k5/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/amal2k5/leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/amal2k5/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/amal2k5/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/amal2k5/leetcode/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
