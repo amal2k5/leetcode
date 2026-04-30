@@ -7,3 +7,5 @@ class Solution(object):
         day = bin(int(day))[2:]
 
         return f"{year}-{month}-{day}"
+
+        
