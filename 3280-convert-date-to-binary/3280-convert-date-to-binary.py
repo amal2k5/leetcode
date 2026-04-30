@@ -6,6 +6,6 @@ class Solution(object):
         month = bin(int(month))[2:]
         day = bin(int(day))[2:]
 
-        return f"{year}-{month}-{day}"
+        return year+"-"+month+"-"+day
 
         
