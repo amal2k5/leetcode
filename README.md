@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/amal2k5/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/amal2k5/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/amal2k5/leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0500-keyboard-row](https://github.com/amal2k5/leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/amal2k5/leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/amal2k5/leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amal2k5/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0268-missing-number](https://github.com/amal2k5/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/amal2k5/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0500-keyboard-row](https://github.com/amal2k5/leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0771-jewels-and-stones](https://github.com/amal2k5/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/amal2k5/leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 ## Counting
@@ -39,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/amal2k5/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/amal2k5/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/amal2k5/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0500-keyboard-row](https://github.com/amal2k5/leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0771-jewels-and-stones](https://github.com/amal2k5/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amal2k5/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/amal2k5/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
