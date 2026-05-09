@@ -1,9 +1,11 @@
 class Solution(object):
     def moveZeroes(self, nums):
 
-        left = 0
+        start = 0
 
-        for right in range(len(nums)):
-            if nums[right] != 0:
-                nums[right], nums[left] = nums[left], nums[right]
-                left += 1   
+        for end in range(len(nums)):
+            if nums[end] != 0:
+                nums[start], nums[end] = nums[end], nums[start]
+                start += 1
+
+ 
