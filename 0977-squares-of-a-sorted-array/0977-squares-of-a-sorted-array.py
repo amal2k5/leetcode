@@ -3,7 +3,7 @@ class Solution(object):
 
         left = 0
         right = len(nums) - 1
-        position = len(nums) - 1
+        last_idx = len(nums) - 1
 
         result = [0] * len(nums)
         
@@ -12,13 +12,13 @@ class Solution(object):
             right_squares = nums[right] * nums[right]
 
             if left_squares > right_squares:
-                result[position] = left_squares
+                result[last_idx] = left_squares
                 left += 1
             else:
-                result[position] = right_squares
+                result[last_idx] = right_squares
                 right -= 1
 
-            position -= 1
+            last_idx -= 1
 
         return result         
 
