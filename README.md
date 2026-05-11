@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/amal2k5/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/amal2k5/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1089-duplicate-zeros](https://github.com/amal2k5/leetcode/tree/main/1089-duplicate-zeros/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/amal2k5/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/amal2k5/leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/amal2k5/leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amal2k5/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/amal2k5/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0268-missing-number](https://github.com/amal2k5/leetcode/tree/main/0268-missing-number/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/amal2k5/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/amal2k5/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
