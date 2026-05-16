@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/amal2k5/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/amal2k5/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0500-keyboard-row](https://github.com/amal2k5/leetcode/tree/main/0500-keyboard-row/) | Easy |
+| [0622-design-circular-queue](https://github.com/amal2k5/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/amal2k5/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/amal2k5/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/amal2k5/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -114,4 +115,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/amal2k5/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0622-design-circular-queue](https://github.com/amal2k5/leetcode/tree/main/0622-design-circular-queue/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/amal2k5/leetcode/tree/main/0622-design-circular-queue/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/amal2k5/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 <!---LeetCode Topics End-->
