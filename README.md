@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/amal2k5/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0500-keyboard-row](https://github.com/amal2k5/leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0771-jewels-and-stones](https://github.com/amal2k5/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/amal2k5/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amal2k5/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/amal2k5/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/amal2k5/leetcode/tree/main/3813-vowel-consonant-score/) | Easy |
@@ -124,4 +125,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/amal2k5/leetcode/tree/main/0622-design-circular-queue/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/amal2k5/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
