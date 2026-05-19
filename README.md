@@ -120,13 +120,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/amal2k5/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0622-design-circular-queue](https://github.com/amal2k5/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/amal2k5/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0622-design-circular-queue](https://github.com/amal2k5/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/amal2k5/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/amal2k5/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
