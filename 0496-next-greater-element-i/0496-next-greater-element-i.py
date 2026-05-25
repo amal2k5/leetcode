@@ -1,20 +1,26 @@
-from typing import List
-
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
         stack = []
-        hashMap = {}
-        answer = []
+        hashmap = {}
+        output = []
+
+        for i in reversed(nums2):
+            while stack:
+                #found nearest greater element
+                if stack[-1] > i:
+                    hashmap[i] = stack[-1]
+                    stack.append(i)
+                    break
+                else: 
+                    stack.pop()
+            
+            #stack is empty initially or was popped till empty
+            if not stack:
+                hashmap[i] = -1
+                stack.append(i)
         
-        for num in nums2: 
-            while stack and num > stack[-1]:
-                hashMap[stack.pop()] = num
-            stack.append(num)
+        for j in nums1:
+            output.append(hashmap[j])
+        return output
+
         
-        for el in nums1:
-            if el in hashMap:
-                answer.append(hashMap[el])
-            else:
-                answer.append(-1)
-        
-        return answer
