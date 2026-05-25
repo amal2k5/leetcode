@@ -6,15 +6,14 @@ class Solution:
 
         for i in reversed(nums2):
             while stack:
-                #found nearest greater element
+
                 if stack[-1] > i:
                     hashmap[i] = stack[-1]
                     stack.append(i)
                     break
                 else: 
                     stack.pop()
-            
-            #stack is empty initially or was popped till empty
+  
             if not stack:
                 hashmap[i] = -1
                 stack.append(i)
