@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/amal2k5/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/amal2k5/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/amal2k5/leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0496-next-greater-element-i](https://github.com/amal2k5/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/amal2k5/leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0622-design-circular-queue](https://github.com/amal2k5/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/amal2k5/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0268-missing-number](https://github.com/amal2k5/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/amal2k5/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0496-next-greater-element-i](https://github.com/amal2k5/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/amal2k5/leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0771-jewels-and-stones](https://github.com/amal2k5/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/amal2k5/leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -131,5 +133,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/amal2k5/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0496-next-greater-element-i](https://github.com/amal2k5/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/amal2k5/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/amal2k5/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
