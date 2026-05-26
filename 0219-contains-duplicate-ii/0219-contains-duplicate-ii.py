@@ -6,7 +6,10 @@ class Solution(object):
         for idx, num in enumerate(nums):
             if num in seen and idx - seen[num] <= k:
                 return True
-            seen[num] = idx
+            
+            else:
+                seen[num] = idx
+                
         return False        
 
         
