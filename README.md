@@ -168,23 +168,27 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/amal2k5/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/amal2k5/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/amal2k5/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/amal2k5/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/amal2k5/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/amal2k5/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/amal2k5/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/amal2k5/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/amal2k5/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/amal2k5/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/amal2k5/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/amal2k5/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/amal2k5/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/amal2k5/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 <!---LeetCode Topics End-->
