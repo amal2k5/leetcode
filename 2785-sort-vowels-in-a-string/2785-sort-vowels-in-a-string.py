@@ -1,19 +1,22 @@
-class Solution:
-    def sortVowels(self, s: str) -> str:
+class Solution(object):
+    def sortVowels(self, s):
 
-        vowels = set('aeiouAEIOU')
-        extractedVowels = [ch for ch in s if ch in vowels]
-        extractedVowels.sort()
-
+        arr = []
         result = []
-        vowelIndex = 0
+        vowelSet = {'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'}
 
         for ch in s:
-            if ch in vowels:
-                result.append(extractedVowels[vowelIndex])
-                vowelIndex += 1
+            if ch in vowelSet:
+                arr.append(ch)
+
+        arr.sort()
+        i = 0
+
+        for ch in s:
+            if ch in vowelSet:
+                result.append(arr[i])
+                i += 1
             else:
                 result.append(ch)
 
         return ''.join(result)            
-        
