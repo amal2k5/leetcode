@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amal2k5/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/amal2k5/leetcode/tree/main/0027-remove-element/) | Easy |
+| [0055-jump-game](https://github.com/amal2k5/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/amal2k5/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/amal2k5/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amal2k5/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -197,4 +198,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/amal2k5/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amal2k5/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/amal2k5/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/amal2k5/leetcode/tree/main/0055-jump-game/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/amal2k5/leetcode/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
