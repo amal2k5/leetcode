@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0922-sort-array-by-parity-ii](https://github.com/amal2k5/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/amal2k5/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/amal2k5/leetcode/tree/main/1089-duplicate-zeros/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amal2k5/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/amal2k5/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0622-design-circular-queue](https://github.com/amal2k5/leetcode/tree/main/0622-design-circular-queue/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amal2k5/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
