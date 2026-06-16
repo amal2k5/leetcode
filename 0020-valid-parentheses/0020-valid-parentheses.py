@@ -12,5 +12,5 @@ class Solution(object):
                     return False
                 stack.pop()   
 
-        return not stack                         
+        return len(stack) == 0                        
 
