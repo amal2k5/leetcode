@@ -5,25 +5,23 @@
 #         self.left = None
 #         self.right = None
 
-class Solution(object):
+class Solution:
     def lowestCommonAncestor(self, root, p, q):
-
         if root is None:
             return None
-
-        if root == p or root == q:
+        
+        if root.val == p.val or root.val == q.val:
             return root
 
-        left=self.lowestCommonAncestor(root.left,p,q)
-        right=self.lowestCommonAncestor(root.right,p,q)
+        leftLCA = self.lowestCommonAncestor(root.left, p, q)
+        rightLCA = self.lowestCommonAncestor(root.right, p, q)
 
-        if left and right:
+        if leftLCA and rightLCA:
             return root
-
-        if left:
-            return left
+        elif leftLCA:
+            return leftLCA
         else:
-            return right         
+            return rightLCA       
 
    
 
