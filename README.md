@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/amal2k5/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/amal2k5/leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0622-design-circular-queue](https://github.com/amal2k5/leetcode/tree/main/0622-design-circular-queue/) | Medium |
+| [0804-unique-morse-code-words](https://github.com/amal2k5/leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/amal2k5/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/amal2k5/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/amal2k5/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/amal2k5/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/amal2k5/leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0771-jewels-and-stones](https://github.com/amal2k5/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/amal2k5/leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/amal2k5/leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/amal2k5/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0500-keyboard-row](https://github.com/amal2k5/leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0771-jewels-and-stones](https://github.com/amal2k5/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/amal2k5/leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/amal2k5/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amal2k5/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/amal2k5/leetcode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
