@@ -1,17 +1,20 @@
 class Solution(object):
     def mergeAlternately(self, word1, word2):
-        length1 = len(word1) 
-        length2 = len(word2)  
+
+        result = ''
+        i = j = 0
+
+        while i < len(word1) and j < len(word2):
+            result += word1[i] + word2[j]
+            i += 1
+            j += 1
+
+        if i < len(word1):
+            result += word1[i:]
+        else:
+            result += word2[j:]  
+
+        return result          
         
-        result = ""
-        
-        for i in range(min(length1, length2)):
-            result += word1[i] + word2[i]
-        
-        if length1 > length2:
-            result += word1[length2:]
-        elif length2 > length1:
-            result += word2[length1:]
-        
-        return result
+
         
