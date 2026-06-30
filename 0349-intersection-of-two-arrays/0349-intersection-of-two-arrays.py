@@ -1,7 +1,16 @@
-class Solution(object):
-    def intersection(self, nums1, nums2):
+class Solution:
+    def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
 
-        numsSet1 = set(nums1)
-        numsSet2 = set(nums2)
+        set1 = set(nums1)
+        set2 = set(nums2)
 
-        return list(numsSet1.intersection(numsSet2))
+        result = []
+
+        for num in set1:
+            if num in set2:
+                result.append(num)
+        return result        
+
+
+       
+        
