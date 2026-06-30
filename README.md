@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/amal2k5/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/amal2k5/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/amal2k5/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/amal2k5/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/amal2k5/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amal2k5/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/amal2k5/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/amal2k5/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/amal2k5/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/amal2k5/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/amal2k5/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/amal2k5/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/amal2k5/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/amal2k5/leetcode/tree/main/0389-find-the-difference/) | Easy |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amal2k5/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/amal2k5/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/amal2k5/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/amal2k5/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/amal2k5/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/amal2k5/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/amal2k5/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/amal2k5/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/amal2k5/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/amal2k5/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -132,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/amal2k5/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/amal2k5/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/amal2k5/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/amal2k5/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/amal2k5/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/amal2k5/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/amal2k5/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
