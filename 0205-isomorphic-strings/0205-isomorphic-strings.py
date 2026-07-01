@@ -4,20 +4,20 @@ class Solution:
         if len(s) != len(t):
             return False
 
-        ST_mapper = {}
-        TS_mapper = {}  
+        mapS2T = {}
+        mapT2S = {}
 
-        for S_ch, T_ch in zip(s, t):
+        for cs, st in zip(s, t):
 
-            if S_ch in ST_mapper and ST_mapper[S_ch] != T_ch:
-                return False
-            
-            if T_ch in TS_mapper and TS_mapper[T_ch] != S_ch:
-                return False
+            if (cs in mapS2T and mapS2T[cs] != st) or (st in mapT2S and mapT2S[st] != cs):
+                return False    
 
-            ST_mapper[S_ch] = T_ch
-            TS_mapper[T_ch] = S_ch    
+           
+            mapS2T[cs] = st
+            mapT2S[st] = cs
 
-        return True        
+        return True
+
+
 
         
