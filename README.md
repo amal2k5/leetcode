@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/amal2k5/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/amal2k5/leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0824-goat-latin](https://github.com/amal2k5/leetcode/tree/main/0824-goat-latin/) | Easy |
+| [0917-reverse-only-letters](https://github.com/amal2k5/leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/amal2k5/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/amal2k5/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amal2k5/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/amal2k5/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/amal2k5/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/amal2k5/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0917-reverse-only-letters](https://github.com/amal2k5/leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/amal2k5/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/amal2k5/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/amal2k5/leetcode/tree/main/1089-duplicate-zeros/) | Easy |
