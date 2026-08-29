@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0804-unique-morse-code-words](https://github.com/amal2k5/leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/amal2k5/leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/amal2k5/leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/amal2k5/leetcode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/amal2k5/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amal2k5/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/amal2k5/leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/amal2k5/leetcode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2315-count-asterisks](https://github.com/amal2k5/leetcode/tree/main/2315-count-asterisks/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/amal2k5/leetcode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/amal2k5/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
@@ -253,4 +255,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/amal2k5/leetcode/tree/main/0055-jump-game/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/amal2k5/leetcode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 <!---LeetCode Topics End-->
