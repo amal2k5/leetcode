@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1089-duplicate-zeros](https://github.com/amal2k5/leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/amal2k5/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/amal2k5/leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/amal2k5/leetcode/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/amal2k5/leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amal2k5/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/amal2k5/leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0824-goat-latin](https://github.com/amal2k5/leetcode/tree/main/0824-goat-latin/) | Easy |
 | [0917-reverse-only-letters](https://github.com/amal2k5/leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/amal2k5/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/amal2k5/leetcode/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/amal2k5/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amal2k5/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/amal2k5/leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amal2k5/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/amal2k5/leetcode/tree/main/1408-string-matching-in-an-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
