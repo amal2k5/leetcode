@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/amal2k5/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/amal2k5/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/amal2k5/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0409-longest-palindrome](https://github.com/amal2k5/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amal2k5/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/amal2k5/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/amal2k5/leetcode/tree/main/0500-keyboard-row/) | Easy |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/amal2k5/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/amal2k5/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/amal2k5/leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0409-longest-palindrome](https://github.com/amal2k5/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0500-keyboard-row](https://github.com/amal2k5/leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0771-jewels-and-stones](https://github.com/amal2k5/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/amal2k5/leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/amal2k5/leetcode/tree/main/0055-jump-game/) | Medium |
+| [0409-longest-palindrome](https://github.com/amal2k5/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
