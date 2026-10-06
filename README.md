@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/amal2k5/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/amal2k5/leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/amal2k5/leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1796-second-largest-digit-in-a-string](https://github.com/amal2k5/leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/amal2k5/leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/amal2k5/leetcode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 ## Counting
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/amal2k5/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/amal2k5/leetcode/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/amal2k5/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1796-second-largest-digit-in-a-string](https://github.com/amal2k5/leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amal2k5/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/amal2k5/leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/amal2k5/leetcode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
