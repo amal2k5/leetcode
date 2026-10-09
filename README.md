@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/amal2k5/leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amal2k5/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/amal2k5/leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [3843-first-element-with-unique-frequency](https://github.com/amal2k5/leetcode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3866-first-unique-even-element](https://github.com/amal2k5/leetcode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1796-second-largest-digit-in-a-string](https://github.com/amal2k5/leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/amal2k5/leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/amal2k5/leetcode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [3843-first-element-with-unique-frequency](https://github.com/amal2k5/leetcode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3866-first-unique-even-element](https://github.com/amal2k5/leetcode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/amal2k5/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/amal2k5/leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/amal2k5/leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [3843-first-element-with-unique-frequency](https://github.com/amal2k5/leetcode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3866-first-unique-even-element](https://github.com/amal2k5/leetcode/tree/main/3866-first-unique-even-element/) | Easy |
 ## String
 | Problem Name | Difficulty |
